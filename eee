@@ -1,3 +1,8 @@
+--[[ 
+   SANS MOBA UNIVERSAL SCRIPT (PROTECTED)
+   by SansMoba
+--]]
+
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local HttpService = game:GetService("HttpService")
